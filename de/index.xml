@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beispiel Seite</title>
-    <link>kapstadt.github.io/de/de/</link>
+    <link>kapstadt.github.io/de/</link>
     <description>Recent content on Beispiel Seite</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Veröffentlicht unter der Apache Lizenz 2.0.</copyright>
     <lastBuildDate>Tue, 22 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="kapstadt.github.io/de/de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="kapstadt.github.io/de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rechtliches</title>
-      <link>kapstadt.github.io/de/de/legal/</link>
+      <link>kapstadt.github.io/de/legal/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>kapstadt.github.io/de/de/legal/</guid>
+      <guid>kapstadt.github.io/de/legal/</guid>
       <description>Punkt A Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum gravida, sem sed fringilla molestie, odio odio suscipit sem, in porttitor turpis tellus quis mauris. Mauris nec ultricies tortor. Praesent eget ex ultrices diam pretium tincidunt vitae porta mi. Ut eu dui sed massa mollis pulvinar. Donec sollicitudin, est eget gravida ultricies, dolor est dictum tortor, a mattis velit dolor sed ante. Donec cursus facilisis ipsum, nec elementum quam faucibus et.</description>
     </item>
     
