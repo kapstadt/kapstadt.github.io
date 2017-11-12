@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Example Page</title>
-    <link>kapstadt.github.io/</link>
+    <link>https://kapstadt.github.io/</link>
     <description>Recent content on Example Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Published under the Apache License 2.0.</copyright>
     <lastBuildDate>Tue, 22 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="kapstadt.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kapstadt.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Legal</title>
-      <link>kapstadt.github.io/legal/</link>
+      <link>https://kapstadt.github.io/legal/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>kapstadt.github.io/legal/</guid>
+      <guid>https://kapstadt.github.io/legal/</guid>
       <description>Point A Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum gravida, sem sed fringilla molestie, odio odio suscipit sem, in porttitor turpis tellus quis mauris. Mauris nec ultricies tortor. Praesent eget ex ultrices diam pretium tincidunt vitae porta mi. Ut eu dui sed massa mollis pulvinar. Donec sollicitudin, est eget gravida ultricies, dolor est dictum tortor, a mattis velit dolor sed ante. Donec cursus facilisis ipsum, nec elementum quam faucibus et.</description>
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>kapstadt.github.io/privacy/</link>
+      <link>https://kapstadt.github.io/privacy/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>kapstadt.github.io/privacy/</guid>
+      <guid>https://kapstadt.github.io/privacy/</guid>
       <description>Point A Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum gravida, sem sed fringilla molestie, odio odio suscipit sem, in porttitor turpis tellus quis mauris. Mauris nec ultricies tortor. Praesent eget ex ultrices diam pretium tincidunt vitae porta mi. Ut eu dui sed massa mollis pulvinar. Donec sollicitudin, est eget gravida ultricies, dolor est dictum tortor, a mattis velit dolor sed ante. Donec cursus facilisis ipsum, nec elementum quam faucibus et.</description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>kapstadt.github.io/terms/</link>
+      <link>https://kapstadt.github.io/terms/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>kapstadt.github.io/terms/</guid>
+      <guid>https://kapstadt.github.io/terms/</guid>
       <description>Point A Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum gravida, sem sed fringilla molestie, odio odio suscipit sem, in porttitor turpis tellus quis mauris. Mauris nec ultricies tortor. Praesent eget ex ultrices diam pretium tincidunt vitae porta mi. Ut eu dui sed massa mollis pulvinar. Donec sollicitudin, est eget gravida ultricies, dolor est dictum tortor, a mattis velit dolor sed ante. Donec cursus facilisis ipsum, nec elementum quam faucibus et.</description>
     </item>
     
