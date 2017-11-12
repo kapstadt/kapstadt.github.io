@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Beispiel Seite</title>
-    <link>https://kapstadt.github.io/de/de/tags/</link>
+    <link>https://kapstadt.github.io/de/tags/</link>
     <description>Recent content in Tags on Beispiel Seite</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Veröffentlicht unter der Apache Lizenz 2.0.</copyright>
     
-	<atom:link href="https://kapstadt.github.io/de/de/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kapstadt.github.io/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
