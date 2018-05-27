@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kapstadt.github.io/de/legal/</loc>
+    <loc>https://kapstadt.github.io/de/posts/legal/</loc>
     <lastmod>2016-11-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kapstadt.github.io/legal/"
+                href="https://kapstadt.github.io/posts/legal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kapstadt.github.io/de/legal/"
+                href="https://kapstadt.github.io/de/posts/legal/"
                 />
   </url>
   
@@ -45,6 +45,22 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://kapstadt.github.io/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kapstadt.github.io/de/posts/</loc>
+    <lastmod>2016-11-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kapstadt.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kapstadt.github.io/de/posts/"
                 />
   </url>
   
