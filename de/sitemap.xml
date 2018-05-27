@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kapstadt.github.io/de/posts/legal/</loc>
+    <loc>https://kapstadt.github.io/de/post/legal/</loc>
     <lastmod>2016-11-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kapstadt.github.io/posts/legal/"
+                href="https://kapstadt.github.io/post/legal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kapstadt.github.io/de/posts/legal/"
+                href="https://kapstadt.github.io/de/post/legal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kapstadt.github.io/de/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kapstadt.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kapstadt.github.io/de/categories/"
                 />
   </url>
   
@@ -34,33 +49,18 @@
   </url>
   
   <url>
-    <loc>https://kapstadt.github.io/de/categories/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kapstadt.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kapstadt.github.io/de/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kapstadt.github.io/de/posts/</loc>
+    <loc>https://kapstadt.github.io/de/post/</loc>
     <lastmod>2016-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kapstadt.github.io/posts/"
+                href="https://kapstadt.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kapstadt.github.io/de/posts/"
+                href="https://kapstadt.github.io/de/post/"
                 />
   </url>
   
